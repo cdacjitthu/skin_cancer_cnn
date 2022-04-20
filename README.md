@@ -11,7 +11,7 @@
 
 ## Conclusions
 - Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
+   - Model accuracy is 65%
   
 ## Technologies Used
 - tensorflow - v2.8.0
